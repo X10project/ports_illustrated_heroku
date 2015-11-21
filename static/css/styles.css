@@ -1,4 +1,9 @@
 body {
     min-height: 2000px;
-    padding-top: 70px;
+    padding-top: 50px;
 }
+img[alt~="supporting"] {
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
